@@ -25,7 +25,7 @@ collection = db.get_collection('user')
 mongo = PyMongo(app)
 
 # User registeration
-@app.route('/register',methods=['POST'])
+@app.route('/',methods=['POST'])
 
 def register_user():   
     _json = request.json
