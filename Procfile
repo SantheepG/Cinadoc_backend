@@ -1,1 +1,1 @@
-web: gunicorn app:app
+web: flutter run -d web && flask run --port $PORT
