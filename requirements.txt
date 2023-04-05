@@ -1,6 +1,6 @@
 absl-py==1.0.0
 aiofiles==0.7.0
-aiosqlite==0.16.2
+aiosqlite==0.16.1
 anyio==3.3.4
 argon2-cffi==20.1.0
 argon2-cffi-bindings==20.1.0
