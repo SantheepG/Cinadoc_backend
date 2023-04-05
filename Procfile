@@ -1,1 +1,1 @@
-web: python app.py
+web: cargo run --release --bin app
