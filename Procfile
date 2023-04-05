@@ -1,1 +1,1 @@
-web: target/release/app
+web: gunicorn app:app
