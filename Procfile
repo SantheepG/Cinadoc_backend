@@ -1,1 +1,1 @@
-web: cargo run --release --bin app
+web: gunicorn myapp:app
